@@ -1,4 +1,4 @@
-# Desafio_visualizacao_dados
+# Desafio02_Visualizacao_Dados
 Storytelling 
 O desafio será a criação de um dashboard com o Storytelling dos dados Student Performance. 
 
